@@ -1,112 +1,46 @@
-# 02 Advanced CSS: Portfolio
+# Billy-Finch-Portfolio
+This is the portfolio for Billy Finch, created by Billy Finch
+This is the portfolio for Billy Finch, created by Billy Finch with the purpose of storing finished projects and application for future employers to view and assess my work. 
 
-## Your Task
-
-Welcome to this week's Challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 
-
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
-
-With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
-
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course. However, at least one application should be live. So you can add on Challenge 1's deployed application or Module's 1 Mini Project's deployed application.
-
-Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first Challenge, we follow the AS AN / I WANT / SO THAT format. 
+<hr>
 
 
-## User Story
-
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+Portfolio presents my name, an avatar, and links to sections about me, my work, and how to contact me.
 
 
-## Acceptance Criteria
-
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
-```
-GIVEN I need to sample a potential employee's previous work
-
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-
-WHEN I click on the link to the section about their work 
- THEN the UI scrolls to a section with titled images of the developer's applications
-
-WHEN I am presented with the developer's first application
- THEN that application's image should be larger in size than the others
-
-WHEN I click on the images of the applications
- THEN I am taken to that deployed application
-
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+![image](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/8ae9b799-32a2-4cd0-bdcc-beb912b32a86)
+![image](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/08111aaa-7053-46a9-b32a-f584f4f81725)
+<hr>
 
 
-## Mock-Up
+When the links are clicked in the navagation bar, the UI scrolls to the corresponding section.
 
-The following animation shows the web application's appearance and functionality:
+![Billy Finch Portfolio](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/6f793ede-926c-48df-a9a4-350d14d3079b)
+<hr>
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+
+When the link to the section about work is clicked the UI scrolls to the section with titled images of the my work applications.
 
 
-## Grading Requirements
+![Billy Finch Portfolio (1)](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/38cb0fc5-db21-44a7-acb3-c45ad23a00fa)
+<hr>
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
+When presented with the first work application the image becomes larger in size than the others applications.
 
-### Technical Acceptance Criteria: 40%
+![Billy Finch Portfolio (2)](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/6cb0f495-fe71-490c-9924-4ab3f3490073)
+<hr>
 
-* Satisfies all of the above acceptance criteria.
 
-### Deployment: 32%
+When images of the applications are clicked, you are taken to that deployed application
 
-* Application deployed at live URL.
+![Billy Finch Portfolio (3)](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/135e9adf-d03a-4184-8321-4bb17b4badd0)
+<hr>
 
-* Application loads with no errors.
 
-* Application GitHub URL submitted.
+When the page is resized or used on viewed on various screens or devices, you are presented with a responsive layout that adapts to the viewpoint.
 
-* GitHub repository contains application code.
+![Billy Finch Portfolio (4)](https://github.com/Bfinch3/Billy-Finch-Portfolio/assets/144380049/d66f4758-da9e-46f2-a1f9-85666db8a304)
+<hr>
 
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+MIT License, Please refer to the LICENSE in the repo.
